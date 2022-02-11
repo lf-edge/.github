@@ -1,6 +1,8 @@
 ## LF Edge
 
-LF Edge aims to establish an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system.
+<img width="1321" alt="LF-edge" src="https://user-images.githubusercontent.com/87017043/153591069-2d2006b5-db8d-40e1-bd2f-0e154631aea1.png">
+
+
 
 [Projects](https://www.lfedge.org/projects/)
 
